@@ -1,0 +1,9 @@
+ua\ypon\auth\domain\ShopUser.class
+ua\ypon\ejb\OrdersManagerBean.class
+ua\ypon\domain\ProductInOrder.class
+ua\ypon\auth\ejb\AuthenticationManager.class
+ua\ypon\auth\domain\Credentials.class
+ua\ypon\auth\domain\ShopUser$Role.class
+ua\ypon\domain\Order.class
+ua\ypon\ejb\ProductsManagerBean.class
+ua\ypon\domain\Product.class
